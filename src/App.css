@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.btn-container{
+    text-align: center;
+    margin: 50px;
+    padding: 200px;
+}
+
+.btn{
+    margin: 2px;
+    gap: 10px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: solid  5px white;
+    border-radius: 10px;
+}
+
